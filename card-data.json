@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-30T21:16:49.993Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Vimal",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Vimal Mehta Architects",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/W40ft1kd/Untitled-design-2026-05-30T221259-606.png",
+      "shareImg": "https://i.postimg.cc/W40ft1kd/Untitled-design-2026-05-30T221259-606.png",
+      "bookMarkImg": "https://i.postimg.cc/W40ft1kd/Untitled-design-2026-05-30T221259-606.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#d2a527",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#d2a527",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+447803594559",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "vmehta@vmarchitects.studio",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.vmarchitects.studio",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/vmehta.architects/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/share/1Doz6JkpJp/?mibextid=wwXIfr",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": " https://www.linkedin.com/in/vimal-mehta-525a7750?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": []
+      }
+    ]
+  }
+}
